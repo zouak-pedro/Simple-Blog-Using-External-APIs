@@ -1,0 +1,12 @@
+main {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.post {
+  width: 300px;
+  margin: 5px;
+}
+.post0 {
+  order: -1;
+}
